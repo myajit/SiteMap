@@ -70,3 +70,11 @@ section {
 .sub-title a {
     color: #fff;
 }
+
+@media all and (max-width:768px) {
+   
+    main {
+        flex-direction: column;
+    }
+
+}
